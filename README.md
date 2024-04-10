@@ -1,6 +1,3 @@
-
-
-
 # Teste para Estagiário de QA
 
 ## Parte 1: Conhecimento Teórico
@@ -61,3 +58,5 @@
 
 2. **Análise de Documentação de Teste Existente**
    - **Pergunta:** Imagine que você recebeu uma documentação de teste de uma aplicação Streamlit para revisão. Quais aspectos você avaliaria para garantir que a documentação é clara, completa e útil para os testadores? Descreva como você abordaria a melhoria dessa documentação.
+
+![](https://private-user-images.githubusercontent.com/89420889/321228084-4090582a-a5bc-4050-ab33-d8733b6279a9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3NTA0MjUsIm5iZiI6MTcxMjc1MDEyNSwicGF0aCI6Ii84OTQyMDg4OS8zMjEyMjgwODQtNDA5MDU4MmEtYTViYy00MDUwLWFiMzMtZDg3MzNiNjI3OWE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEwVDExNTUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1MTRlNmJhZTA2MzgzODk0NmE0MDE4ODYyM2I0ZTE0YWFmM2RlMzM4MTg5MTk0ZjFlNDk2MGI3OTlkZjBhZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rF4jvsuteyoQlhCi9-DExGMXEMN9W9K97I7j1TadATw)
